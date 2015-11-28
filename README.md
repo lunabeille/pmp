@@ -13,10 +13,10 @@ Now, let's have some fun !
 Poupi poweeeer ina action, yo !
 
 
-Howto run pmp
---------------
+How to run pmp
+---------
 
-Currently, the project only provides a quite poor raw interface (called "text", even if it is based on HTML), based on a pre element. Advanced interface will come soon, but our tetris game is currently playable if you really want it...
+Currently, the project only provides a quite poor raw interface (called "text", even if it is based on HTML), based on a pre element. Advanced interface will come soon, but our tetris game is currently playable if you really want to...
 
 requirements :
   * make
