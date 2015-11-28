@@ -1,0 +1,50 @@
+*
+{
+    box-sizing : border-box;
+}
+
+html, body
+{
+    height : 100%;
+    width : 100%;
+    overflow : hidden;
+}
+
+.pmp
+{
+    height : 100%;
+    width : 100%;
+    position: relative;
+}
+
+
+/*
+.pmp
+{
+    text-align : center;
+    position : relative;
+}
+
+.pmp .grid
+{
+    font-family : monospace;
+    margin-top : 10%;
+    display : inline-block;
+    border : 1px gray solid;
+    width : 200px;
+    height : 440px;
+    background : url("../images/case.svg") repeat;
+}
+
+.pmp .brick
+{
+    display : inline-block;
+    background : url('./images/brick.png') no-repeat;
+}
+
+.pmp .brick,
+.pmp .grid
+{
+    background-size : 20px 20px;
+}
+*/

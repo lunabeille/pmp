@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="gui/pmp.css"/>
+
+        <script data-main="pmp"
+                src="bower/requirejs/require.js">
+        </script>
+    </head>
+
+    <body>
+
+<script type="text/javascript">
+requirejs(['pmp'], function(){
+    pmp.run({
+        gui : "text",
+        blocks : "tetris",
+        height : 22,
+        width : 10
+    });
+});
+</script>
+
+    </body>
+
+</html>
