@@ -1,7 +1,7 @@
 define(['jquery'], function($){
 "use strict";
 
-if(window.pmp === undefined){ windows.pmp = {}; }
+if(window.pmp === undefined){ window.pmp = {}; }
 
 pmp.def = function(parent, config)
 {

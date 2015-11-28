@@ -1,7 +1,7 @@
 (function(){
 "use strict";
 
-if(window.pmp === undefined){ windows.pmp = {}; }
+if(window.pmp === undefined){ window.pmp = {}; }
 
 pmp.run = function(config)
 {
